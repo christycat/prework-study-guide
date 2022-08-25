@@ -9,6 +9,7 @@
     height: 120px;
     background-color: blue;
     color: white;
+    
    }
    
    h1,
@@ -37,6 +38,6 @@
     width: 80%
     margin: 40px auto;
     border: 5px solid gray;
-    box-shadow: 5px 10px #888888;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
    }
    
